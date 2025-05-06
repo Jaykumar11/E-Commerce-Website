@@ -1,0 +1,210 @@
+[
+    {
+      "id": "1",
+      "name": "Google Pixel 9 Pro",
+      "preview": "../img/photos/google/9 pro/DISPLAY.jpg",
+      "photos": [
+        "../img/photos/google/9 pro/DISPLAY.jpg",
+        "../img/photos/google/9 pro/back.jpg",
+        "../img/photos/google/9 pro/front.jpg",
+        "../img/photos/google/9 pro/side.jpg",
+        "../img/photos/google/9 pro/other side.jpg"
+      ],
+      "description": "The Google Pixel 9 Pro is Google's latest flagship smartphone, combining cutting-edge AI capabilities with advanced hardware. It features a 6.3-inch Super Actua display with an impressive 3,000-nit peak brightness and a smooth 1-120Hz adaptive refresh rate for a vibrant viewing experience. Powered by the Tensor G4 chipset and 16GB of RAM, the device supports sophisticated AI features, though its raw performance lags behind some competitors. The Pixel 9 Pro excels in photography, boasting a versatile triple-camera setup with a 50MP main sensor, 48MP ultra-wide, and 48MP telephoto lens with 5x optical zoom. A new 42MP selfie camera elevates front-facing photography. AI-enhanced features like Magic Editor, Super Res Zoom (up to 30x), and improved Night Sight Video make it a leader in mobile photography and videography.With a sleek design featuring polished metal sides, matte glass, and eco-friendly materials, the Pixel 9 Pro also offers 128GB to 1TB storage options, a 4,700mAh battery, and Android 14 software. Starting at $999, it's available in colors like Obsidian, Porcelain, Hazel, and Rose Quartz.",
+      "size": [1, 1, 0, 1, 0],
+      "isAccessory": false,
+      "brand": "Google",
+      "price": 1099.00
+    },
+    {
+      "id": "2",
+      "name": "Google Pixel 9 Pro XL",
+      "preview": "../img/photos/google/9 pro xl/DISPLAY.jpg",
+      "photos": [
+        "../img/photos/google/9 pro xl/DISPLAY.jpg",
+        "../img/photos/google/9 pro xl/back.jpg",
+        "../img/photos/google/9 pro xl/front.jpg",
+        "../img/photos/google/9 pro xl/side.jpg",
+        "../img/photos/google/9 pro xl/other side.jpg"
+      ],
+      "description": "The Google Pixel 9 Pro XL is Google's latest flagship smartphone, combining cutting-edge AI capabilities with advanced hardware. It features a 6.8-inch Super Actua display with an impressive 3,000-nit peak brightness and a smooth 1-120Hz adaptive refresh rate for a vibrant viewing experience. Powered by the Tensor G4 chipset and 16GB of RAM, the device supports sophisticated AI features, though its raw performance lags behind some competitors. The Pixel 9 Pro excels in photography, boasting a versatile triple-camera setup with a 50MP main sensor, 48MP ultra-wide, and 48MP telephoto lens with 5x optical zoom. A new 42MP selfie camera elevates front-facing photography. AI-enhanced features like Magic Editor, Super Res Zoom (up to 30x), and improved Night Sight Video make it a leader in mobile photography and videography.With a sleek design featuring polished metal sides, matte glass, and eco-friendly materials, the Pixel 9 Pro also offers 128GB to 1TB storage options, a 5100mAh battery, and Android 14 software. Starting at $999, it's available in colors like Obsidian, Porcelain, Hazel, and Rose Quartz.",
+      "size": [0, 0, 0, 1, 0],
+      "isAccessory": false,
+      "brand": "Google",
+      "price": 1700.00
+    },
+    {
+      "id": "3",
+      "name": "Google Pixel 9",
+      "preview": "../img/photos/google/Pixel 9/display.jpg",
+      "photos": [
+        "../img/photos/google/Pixel 9/display.jpg",
+        "../img/photos/google/Pixel 9/back.jpg",
+        "../img/photos/google/Pixel 9/front.jpg",
+        "../img/photos/google/Pixel 9/side.jpg",
+        "../img/photos/google/Pixel 9/colours.jpg"
+      ],
+      "description": "The Google Pixel 9 is the latest in the Pixel lineup, combining cutting-edge AI-powered features with an elegant, durable design. Powered by the new Google Tensor G4 chip, it delivers improved performance, advanced AI capabilities, and seamless multitasking with 12GB of RAM. The 6.3-inch Actua display stands out with a peak brightness of 2,700 nits, adaptive refresh rates (60Hz to 120Hz), and vibrant color reproduction, making it one of the best displays in its class. The Pixel 9 introduces significant upgrades to its camera system, including a 50MP wide and a 48MP ultrawide lens for sharper photos and enhanced low-light performance, along with a 10.5MP front-facing camera with autofocus. The device also boasts a premium matte glass back, polished metal sides, and improved durability with Gorilla Glass Victus 2 and IP68 water and dust resistance. With a 4,700 mAh battery supporting 45W fast charging, seven years of software updates, and features like 'Gemini Live' for natural AI interactions, the Pixel 9 offers a refined and future-ready smartphone experience. It's available in elegant new colors, including Wintergreen, Rose Quartz, and Peony, starting at $799.",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": false,
+      "brand": "Google",
+      "price": 799.00
+    },
+    {
+      "id": "4",
+      "name": "Google Pixel 8",
+      "preview": "../img/photos/google/Pixel 8/back.jpg",
+      "photos": [
+        "../img/photos/google/Pixel 8/front.jpg",
+        "../img/photos/google/Pixel 8/back.jpg",
+        "../img/photos/google/Pixel 8/crosss.jpg",
+        "../img/photos/google/Pixel 8/side.jpg",
+        "../img/photos/google/Pixel 8/look.jpg"
+      ],
+      "description": "The Google Pixel 8 is a cutting-edge smartphone that blends sleek design with powerful performance and advanced AI capabilities. Featuring a 6.2-inch Actua display with stunning colors and a 120Hz refresh rate, it delivers a smooth and immersive visual experience. Powered by Google’s Tensor G3 chip, the Pixel 8 enhances user experience with AI-driven features like on-device translation, photo and video editing tools, and improved voice commands. The camera system is a standout, offering a 50 MP main sensor and advanced computational photography for exceptional low-light and detailed shots. Running on Android 14 with years of guaranteed updates, the Pixel 8 also emphasizes sustainability with its durable recycled aluminum frame. With a long-lasting battery, wireless charging, and robust security features like Face Unlock and fingerprint scanning, the Pixel 8 is designed for both productivity and play.",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": false,
+      "brand": "Google",
+      "price": 649.00
+    },
+    {
+      "id": "5",
+      "name": "Google Pixel 7",
+      "preview": "../img/photos/google/pixel 7/display.jpg",
+      "photos": [
+        "../img/photos/google/pixel 7/front.jpg",
+        "../img/photos/google/pixel 7/camera.jpg",
+        "../img/photos/google/pixel 7/box items.jpg",
+        "../img/photos/google/pixel 7/back.jpg",
+        "../img/photos/google/pixel 7/display.jpg"
+      ],
+      "description": "The Google Pixel 7 is a sleek, high-performance smartphone designed to deliver an exceptional user experience. Powered by Google’s custom-built Tensor G2 chip, it offers lightning-fast performance, enhanced AI capabilities, and seamless multitasking. The device features a stunning 6.3-inch AMOLED display with vibrant colors, sharp resolution, and a smooth 90Hz refresh rate, ensuring fluid scrolling and an immersive viewing experience. The Pixel 7’s camera system is one of its standout features, boasting a 50 MP main sensor and a 12 MP ultra-wide lens, enabling users to capture professional-grade photos and videos with advanced features like Magic Eraser and Real Tone. Running on Android 13, the phone offers a clean and intuitive user interface with guaranteed software updates for years to come. With a robust 4355mAh battery, 5G connectivity, wireless charging, and an IP68 water resistance rating, the Pixel 7 combines innovation, durability, and convenience in a compact and stylish package.",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": false,
+      "brand": "Google",
+      "price": 599.00
+    },
+    {
+      "id": "6",
+      "name": "Samsung S24 ultra",
+      "preview": "../img/photos/Samsung/s24 ultrra/DISPLAY.jpg",
+      "photos": [
+        "../img/photos/Samsung/s24 ultrra/DISPLAY.jpg",
+        "../img/photos/Samsung/s24 ultrra/back.jpg",
+        "../img/photos/Samsung/s24 ultrra/front.jpg",
+        "../img/photos/Samsung/s24 ultrra/side.jpg"
+      ],
+      "description": "The Samsung Galaxy S24 Ultra is a flagship smartphone that redefines performance and innovation, offering an unparalleled mobile experience. Featuring a stunning **6.8-inch Dynamic AMOLED 2X display** with a 120Hz refresh rate, it delivers vibrant colors and ultra-smooth visuals. Powered by the latest **Snapdragon 8 Gen 3 processor** (or Exynos 2400, depending on the region) and paired with up to **16GB of RAM**, the S24 Ultra ensures lightning-fast performance and seamless multitasking. Its advanced **quad-camera system**, headlined by a **200MP primary sensor**, captures stunning photos and videos with exceptional clarity, even in low light. The device boasts a premium design with an **armor aluminum frame** and **Gorilla Glass Victus 3**, ensuring durability. With its **5,000mAh battery** supporting super-fast charging and wireless charging, the Galaxy S24 Ultra keeps you powered throughout the day. It also offers **S Pen integration**, making it a versatile tool for productivity and creativity. Running on **Android 14 with One UI 6**, the phone provides an intuitive and customizable user experience. The Galaxy S24 Ultra sets a new benchmark for flagship smartphones.",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": false,
+      "brand": "Samsung",
+      "price": 1500.00
+    },
+    {
+      "id": "7",
+      "name": "Samsung S24+",
+      "preview": "../img/photos/Samsung/s24+/DISPLAY.jpg",
+      "photos": [
+        "../img/photos/Samsung/s24+/DISPLAY.jpg",
+        "../img/photos/Samsung/s24+/front.jpg",
+        "../img/photos/Samsung/s24+/side.jpg",
+        "../img/photos/Samsung/s24+/back.jpg"
+      ],
+      "description": "The Samsung Galaxy S24+ is a premium smartphone that offers cutting-edge features and a sleek design. It boasts a 6.7-inch QHD+ Dynamic AMOLED 2X display with a stunning resolution of 3120 x 1440 and up to 2600 nits of brightness, making it one of Samsung’s brightest screens yet. This ensures vibrant visuals and excellent visibility, even in bright outdoor conditions. Powered by the Snapdragon 8 Gen 3 processor, it delivers exceptional performance for gaming, multitasking, and everyday use. The phone is equipped with a powerful camera system, featuring AI-enhanced photography and Nightography capabilities for stunning low-light photos. It has advanced photo editing tools and intelligent suggestions for capturing and improving images. The battery is equally impressive, with a 4700mAh capacity and support for 45W fast charging, ensuring all-day use with quick recharges. The Galaxy S24+ also features a robust aluminum frame and Gorilla Glass Victus 2 for durability, along with IP68 water and dust resistance. Overall, the Galaxy S24+ combines style, power, and innovation, making it a standout option in Samsung's flagship lineup",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": false,
+      "brand": "Samsung",
+      "price": 1040.00
+    },
+    {
+      "id": "8",
+      "name": "Xiomi 13T",
+      "preview": "../img/photos/Xiaomi/13t/DISPLAY.jpg",
+      "photos": [
+       "../img/photos/Xiaomi/13t/DISPLAY.jpg",
+       "../img/photos/Xiaomi/13t/bacl.jpg",
+       "../img/photos/Xiaomi/13t/front.jpg",
+       "../img/photos/Xiaomi/13t/side.jpg"
+      ],
+      "description": "The Xiaomi 13T is a flagship smartphone designed to deliver a premium experience with cutting-edge features. Powered by the MediaTek Dimensity 8200-Ultra processor, it offers smooth and efficient performance, ideal for multitasking and gaming. The phone boasts a stunning 6.67-inch AMOLED display with a 144Hz refresh rate and HDR10+ support, ensuring vibrant visuals and buttery-smooth scrolling. Its Leica-engineered triple camera setup, featuring a 50MP main sensor, allows for exceptional photography with professional-grade color accuracy and detail. The 5000mAh battery supports fast 67W wired charging, providing long-lasting usage and quick recharges. With a sleek glass and metal design, IP68 water and dust resistance, and a focus on both style and durability, the Xiaomi 13T is a versatile and reliable choice for tech enthusiasts. It runs on MIUI based on Android 13, offering a user-friendly interface and extensive customization options.",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": false,
+      "brand": "Xiomi",
+      "price": 430.00
+    },
+    {
+      "id": "9",
+      "name": "Unisex Silver-Toned Series 3 Smart Watch",
+      "preview": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803247/2019/5/27/624dac60-4c42-4902-bba1-30a51cc7f43c1558948536543-Apple-Unisex-Smart-Watches-1441558948536225-1.jpg",
+      "photos": [
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803247/2019/5/27/624dac60-4c42-4902-bba1-30a51cc7f43c1558948536543-Apple-Unisex-Smart-Watches-1441558948536225-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803247/2019/5/27/dd1e37da-0de2-417f-abd2-6df8996040eb1558948536526-Apple-Unisex-Smart-Watches-1441558948536225-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803247/2019/5/27/9dfea59a-4d94-43bd-a140-77b58e42e8971558948536512-Apple-Unisex-Smart-Watches-1441558948536225-3.jpg"
+      ],
+      "description": "Low and high heart rate notifications. Emergency SOS. New Breathe watch faces. Automatic workout detection. New yoga and hiking workouts. Advanced features for runners like cadence and pace alerts. New head-to-head competitions. Activity sharing with friends. Personalized coaching. Monthly challenges and achievement awards. Walkie-Talkie, make phone calls, and send messages. Listen to Apple Music and Apple Podcasts. Use Siri in all-new ways. Silver aluminum case. Built-in GPS, GLONASS, Galileo, and QZSS. S3 with dual-core processor. W2 Apple wireless chip. Barometric altimeter Capacity 8GB. Optical heart sensor. 1 Year Manufacture Warranty",
+      "size": [1, 1, 1, 1, 1, 1],
+      "isAccessory": true,
+      "brand": "Apple",
+      "price": 299.00
+    },
+    {
+      "id": "10",
+      "name": "Unisex Black & Green Reflex 2.0 Smart Band",
+      "preview": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/2/23/dc05b5e5-aa82-493e-bf0b-0c309baf21021550920383101-1.jpg",
+      "photos": [
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/2/23/dc05b5e5-aa82-493e-bf0b-0c309baf21021550920383101-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/2/23/1d9bda95-b63e-4312-bbfa-c25b377c96c21550920383126-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/productimage/2019/2/23/2261262d-8f2f-4451-9584-9d0cb90e48cf1550920383155-3.jpg"
+      ],
+      "description": "The new Fastrack Reflex 2.0 Activity Tracker comes with all the features one could ask for! It comes in three colours that you can use to accentuate your athleisure, casual or party attire. Not only does it look uber cool in this cool grey & electric blue accent, further the TPU (Thermoplastic Polyurethane) strap ensures it gives you a snugfit while staying light on your wrist! It is a fitness band with smartwatch features. The band has Steps, Distance and Calorie Tracker, Sleep Tracker, Call & SMS Alerts, OLED Display, 10 Days Power Reserve, Vibration Alarm, Sedentary Reminder and is IPX6 Water Resistant. This band is compatible with both IOS and Android OS. It has a secure 'Pin' based pairing with your phone, for better protection. And, all of this at a price that is hard match anywhere else with quality and promise of the brand Fastrack. Move on and get one for yourself!",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": true,
+      "brand": "Fastrack",
+      "price": 90.00
+    },
+    {
+      "id": "11",
+      "name": "Unisex Black Galaxy Fit Fitness Band",
+      "preview": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/e533a691-3908-41b0-8307-1928a37d4ec41561362162650-Samsung-Galaxy-Fit-4801561362161527-1.jpg",
+      "photos": [
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/e533a691-3908-41b0-8307-1928a37d4ec41561362162650-Samsung-Galaxy-Fit-4801561362161527-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/74a60845-202d-4cea-9531-e16931bd994a1561362162628-Samsung-Galaxy-Fit-4801561362161527-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/10122083/2019/6/24/eb5f1aca-1b71-49fa-9c41-aba51f6b01941561362162569-Samsung-Galaxy-Fit-4801561362161527-4.jpg"
+      ],
+      "description": "Keep up your routine for even longer. With plenty of power to last throughout your daily workouts, you can pack in those longer hours to reach your fitness goals. What's more, you won't have to worry about disruptive battery discharge when tracking your activity.",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": true,
+      "brand": "Samsung",
+      "price": 120.00
+    },
+    {
+      "id": "12",
+      "name": "Gear IconX Black Cord-free Fitness Earbuds",
+      "preview": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/de2c21f3-6731-4c29-9369-692a486a1b8c1554802772926-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-1.jpg",
+      "photos": [
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/de2c21f3-6731-4c29-9369-692a486a1b8c1554802772926-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/0423d170-fb49-450f-aef9-bbeb7003554d1554802772913-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8593217/2019/4/9/94813947-e557-4755-9d3d-22529436a1681554802772853-Samsung-Gear-IconX-Black-Cord-free-Fitness-Earbuds-256155480-5.jpg"
+      ],
+      "description": "Speak commands via Bixby or Google Voice and control your music with just a tap or swipe. Meet your fitness goals with speed, distance, calorie tracking and real-time voice guidance. Find the perfect fit with multiple sizes of ear-tips and wing-tips right in the box. iOS/Mac users: Samsung Gear IconX can be used to stream music or take calls from your iOS handset or tablet. Fitness Functions that require the use of Samsung S-Health app are not available for iOS. 5 hours of Bluetooth streaming, 7 hours of MP3 listening, 4 hours talk time. Warranty: 6 months. Warranty provided by the brand owner / manufacturer",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": true,
+      "brand": "Samsung",
+      "price": 65.00
+    },
+    {
+      "id": "13",
+      "name": "White 2nd Gen AirPods with Charging Case",
+      "preview": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/6661d579-12ae-456b-b8f2-e78e5256a99c1558948436173-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-1.jpg",
+      "photos": [
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/6661d579-12ae-456b-b8f2-e78e5256a99c1558948436173-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/9b14396e-0ee1-46b4-833c-4a2c35b5ce661558948436160-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9803279/2019/5/27/27569983-fada-4874-9306-14c945c234781558948436148-Apple-AirPods-with-Charging-Case-2nd-Gen-White-3831558948435-3.jpg"
+      ],
+      "description": "AirPods with Charging Case: More than 24 hours listening time,3 up to 18 hours talk time8. AirPods (single charge): Up to 5 hours listening time,1 up to 3 hours talk time2. 15 minutes in the case equals up to 3 hours listening time4 or up to 2 hours talk time. Warranty: 1 year. Warranty provided by Brand/Manufacturer",
+      "size": [1, 1, 1, 1, 1],
+      "isAccessory": true,
+      "brand": "Apple",
+      "price": 250.00
+    }
+  ]
